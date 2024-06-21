@@ -3,4 +3,3 @@ total_delay = sum(delay_times)
 num_flights = len(delay_times)
 average_delay = total_delay/ num_flights
 print(average_delay, "minutes")
-print("")
